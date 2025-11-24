@@ -1,0 +1,573 @@
+@RELATION hierarchical_dataset
+
+@ATTRIBUTE text string
+@ATTRIBUTE class hierarchical R/Hatespeech,R/Hatespeech/Sexism,R/Hatespeech/Sexism/Women,R/Hatespeech/Homophobia/Homossexuals/Lesbians,R/Hatespeech/Sexism/Women/Blondwomen,R/Hatespeech/Body/Thinwomen,R/Hatespeech/Origin/SouthAmericans/Brazilianwomen,R/Hatespeech/Sexism/Women/Homelesswomen,R/Hatespeech/Sexism/Women/MenFeminists,R/Hatespeech/Religion/Muslims/Muslimwomen,R/Hatespeech/Sexism/Women/Oldwomen,R/Hatespeech/Sexism/Transexuals/Transwomen,R/Hatespeech/Body/Fatwomen,R/Hatespeech/Body/Uglywomen,R/Hatespeech/Sexism/Men,R/Hatespeech/Sexism/Transexuals,R/Hatespeech/Ideology/Feminists,R/Hatespeech/Body,R/Hatespeech/Body/Fatpeople,R/Hatespeech/Body/Uglypeople,R/Hatespeech/Body/Thinpeople,R/Hatespeech/Racism,R/Hatespeech/Racism/Blackpeople,R/Hatespeech/Racism/Asians,R/Hatespeech/Racism/Whitepeople,R/Hatespeech/Racism/Indigenous,R/Hatespeech/Ideology,R/Hatespeech/Ideology/Leftwingideology,R/Hatespeech/Ideology/Agnostic,R/Hatespeech/Homophobia,R/Hatespeech/Homophobia/Homossexuals,R/Hatespeech/Homophobia/Homossexuals/Gays,R/Hatespeech/Homophobia/Bissexuals,R/Hatespeech/Origin,R/Hatespeech/Origin/Migrants,R/Hatespeech/Origin/Migrants/Immigrants,R/Hatespeech/Origin/Migrants/Refugees,R/Hatespeech/Origin/Africans,R/Hatespeech/Origin/Arabic,R/Hatespeech/Origin/Arabic/Egyptians,R/Hatespeech/Origin/Arabic/Iranians,R/Hatespeech/Origin/EastEuropeans,R/Hatespeech/Origin/EastEuropeans/Russians,R/Hatespeech/Origin/EastEuropeans/Ucranians,R/Hatespeech/Origin/Latins,R/Hatespeech/Origin/Latins/Argentines,R/Hatespeech/Origin/Latins/Mexicans,R/Hatespeech/Origin/Latins/Venezuelans,R/Hatespeech/Origin/SouthAmericans,R/Hatespeech/Origin/SouthAmericans/Brazilians,R/Hatespeech/Origin/Ruralpeople,R/Hatespeech/Religion,R/Hatespeech/Religion/Islamists,R/Hatespeech/Religion/Muslims,R/Hatespeech/Religion/Jews,R/Hatespeech/OtherLifestyle,R/Hatespeech/OtherLifestyle/Criminals,R/Hatespeech/OtherLifestyle/Gamers,R/Hatespeech/OtherLifestyle/Vegetarians,R/Hatespeech/OtherLifestyle/Poorpeople,R/Hatespeech/OtherLifestyle/Polyamorous,R/Hatespeech/OtherLifestyle/Footballplayerswomen,R/Hatespeech/OtherLifestyle/Streetartists,R/Hatespeech/OtherLifestyle/Jornalists,R/Hatespeech/Health,R/Hatespeech/Health/Disabledpeople,R/Hatespeech/Health/Autists,R/Hatespeech/Ageing,R/Hatespeech/Ageing/Oldpeople,R/Hatespeech/Ageing/Olderpeople,R/Hatespeech/Ageing/Youngpeople
+
+@DATA
+uns saco culhões,R
+homemdeverdade manda salve imagem semana amamos,R
+lenazzo homemdeverdade nao paga pau paga mocreia tirar zica,R/Hatespeech/Sexism/Men
+sugestões 2010 melhor colocar chuck norris protagonista série tv 24hs,R
+video clipe semana,R
+homem homem assiste fazenda,R/Hatespeech/Sexism/Men
+homemdeverdade vacila assume rapidamente responsabilidade paga erro humor,R/Hatespeech/Sexism/Men
+dar risada si homemdeverdade rir cagadas alheias melhor ainda,R
+latinlover perfume mão jovem amantepra mão cappice,R
+hqeh sai mostrando bunda época carnaval,R/Hatespeech/Sexism/Men
+tadinho goby rsrsrs ryanreminho live on,R
+angelicamorango nusssss magavilha heinnn massa promo,R
+ninguém chega casa falando “mãe hétero” então chegar dizer “mãe gay”” by mariagadu epronto,R
+1 coisa ñ elimina outra quasegay agdabritto ain menina entrevista d emprego semana vem vou sair prostituição rs,R
+tá doendo simmm tá doendo mimmmmm namorada felipe melo,R/Hatespeech/Sexism/Women
+boa noite lindinhas noite rs dignaamada amorainlove nandas2mari agdabritto,R
+paullamirella vale pena 02 dvds incríveis morasse sp fariate cópia thecorrs,R
+gente tá pique jv coisa leve rsrsrs,R
+rilitros amorainlove angelicamorango liquid love iria participar promoção infarta morango kkkkkkk passomal,R
+jujubalima oww linda trabalho amanhã dó,R
+juhsavignon fica deus luz paz,R
+jujubalima ah convivendo apenas comigo fds precisava disso pensando mtas coisas trabalhando meio disso rs,R
+renatuuus amore ajuda divulgar primeiro livro melaineribeiro escritora musico,R
+aninhaebc miga dá fuçada lá primeiro livro amiga melaineribeiro reviso,R
+quasegay coisasdelouco agdabritto hj correria nao deixou interagir vcs sao especiais saudadessss cheirossss,R
+jovem gosta restart ainda vai ter vergonha si,R
+feliz dia amigo come gordura picanha,R
+dunga homemdeverdade apenas ignorante verdade,R
+homem verdade bate mulher coisa imbecil babaca covardes bundões,R
+charlie sheen to contigo querido amigo,R
+fica enrolando aceitar convite coragem dizer medo queimar cartucho próxima né sei,R
+heteros ainda maioria devemos unir contra ditadura minoria abaixo heterofobia,R/Hatespeech/Homophobia
+mulherdeverdade prefere amor tesão envolvimento preconceitos,R/Hatespeech/Sexism/Women
+pensando mulherdeverdade íntegra sentimentos consigo outros essência,R
+menina praplégica c tá querendo quero mexer quero mexer,R
+indo dormir luz acesa homenagem nordeste,R/Hatespeech/Origin
+xxxpressions humornegroo preconceituoso dissesse loiras nordestinas,R
+lula nunca acertou nota azul guitar hero,R
+memes nana gouvêa tão divertindo kkkkkkkk,R
+vencedor,R
+atenção todos preços inacreditavelmente metade dobro blackfriday brasil,R
+tanto calor to começando gostar fala cuspindo,R
+dessa vez piadas humor negro santa maria rs,R
+maggot00 humornegroo ai denunciei porra mercado fé daquii hahahah,R
+passo passo denunciar facebook pastor malacheia kkkk vai ficar puto liga,R
+pensou maneiro enterro assim fechar caixão alguém tocar música encerramento windows,R
+separados 20 reais,R
+pior ades aids,R
+cabelo deve ter pertencido cu alguem outra encarnação,R
+galera vamos ajudar léo ta perdido hoje ninguém viu ai voltaleo,R
+troco 2 tomates ingresso rock in rio,R
+sera povo serviço vai notar levar colchão amanha,R
+afff n dou nada,R
+indiretas grazi nao param,R
+posso chamar preto chama branquelo azedo,R/Hatespeech/Racism/Blackpeople
+agora tudo apropriação cultural pode usar turbante,R
+globeleza mulata sim preconceito branca sabe sambar,R/Hatespeech/Racism
+assim racista escuto eminem flor,R
+hoje acordei 1 vontade fazer uns dreadlock ta moda,R
+n racista racismo crime crime coisa pretokkkkkk,R/Hatespeech/Racism/Blackpeople
+gentebranca1 to print sério gente,R
+linknpacto aprendeu gostar branco vê negro nãoatraente inconscientemente culpados mídia família brancos geral,R/Hatespeech/Racism/Blackpeople
+linknpacto prefere explique didaticamente rache,R
+to cansada vcs discutindo racismo vo dar unfolo,R
+cota negro aumentou nesse bbb né,R/Hatespeech/Racism/Blackpeople
+vamo ver papai acha,R
+hannaroehe agradeço,R
+racismo inverso existe sim veja sintaxe palavra,R/Hatespeech/Racism
+iggy mto melhor nicki minaj pfvrr,R
+reayresss vou sugerir dilmabr,R
+negras queimem sutiãs apropriando cultura branca norteamericana,R/Hatespeech/Racism/Blackpeople
+jotaprios orgulho branco chapa,R
+alemagnnusb gentebranca1 perfil fala mau gente branca racista coerência cadê,R
+feliz dia internacional kiridinhas,R
+entrevista kiridíssima ellenpage dando falar,R
+pmdb sempre lado democracia,R
+bolsonaro nao parabenizou cunha vdd gente culpa edição video,R
+legalizar maconha aí filho começa fumar merda daqui pouco tá crackolândia copinho guaravita,R
+ustra pode homenagear che pode homenagear,R
+vanguardapop chora petralhada bolsonaropresidente depbolsonaro,R
+eaí temer quer cortes pro salário mínimo educação acabar sus bagulho tirar dilma porra forapt,R
+tirar wpp tirar dilma logo porra,R
+cancelaram impeachment golpe,R
+vazou diálogo jucá falando sobre trocar presidente deter lava jato relaxem galera golpe,R
+tudo bem temer limitar gastos sus prejudique milhões brasileiros contanto gente saia crise,R
+direitos humanos serve p defender bandido,R/Hatespeech/OtherLifestyle
+amandacastelar nunca ri tanto tweets direitafalando kkkkkkk,R
+deus criou adao eva nao adao ivo,R/Hatespeech/Homophobia/Homossexuals/Gays
+edai trump nao gosta latino ngm obrigado gostar alguém nao,R/Hatespeech/Racism
+pnr dia portugal renovarportugal pnr portugal,R
+brexit pexit efeito dominó pnr portugal renovarportugal,R
+dia portugal 2016 via youtube,R
+lutar direitos portugal pnr renovarportugal,R
+protesto “islão aqui não” via youtube,R
+destruectag to dando vários berros direitafalando,R
+rpsantos1970 verdadeiros rostos fome portugal antoniocostapm catarinamart fome desemprego mi,R
+feliciano estuprador gente tudo marketing esquerda,R
+bitchdonash direitafalando melhor twitter,R
+eae esquerdopata vão sair gastar capital hj,R/Hatespeech/Ideology/Leftwingideology
+rpsantos1970 interrupções voluntárias gravidez cultura morte legalmente efectuadas hospitais portugal 20012012,R
+mulher dica foto tirar amigas,R
+jessycapes senhora sendo leviana,R
+brownie aqui casa calabresa,R
+retardado mata beber aí tentam proibir todo resto beber tb,R
+mulher angelina jolie traida acha larga otária,R/Hatespeech/Sexism/Women
+4 seguidoras neste fds,R
+editorahumanas caiocoimbra catracalivre ainda chamou amigo bicha catracadaportras ajudalo,R/Hatespeech/Homophobia/Homossexuals/Gays
+ê lá casa,R
+sexta noite puteiro,R
+abismo desigualdade injustiça jpintocoelho60 pnr renovarportugal portugal,R
+vininobrega direitafalando interpretou bandido defende bandido,R
+fala ae esquerdopata,R/Hatespeech/Ideology/Leftwingideology
+brendapaesgp homem repara lingerie tá querendo usar,R/Hatespeech/Sexism/Men
+assusta saber gp,R
+mulher achei babá filhos,R
+depeduardocunha boa tarde todos,R
+quer chamar atenção marido organiza grupal amigas jumenta,R/Hatespeech/Sexism/Women
+pau cu evento baixa preço gasolina fdp,R
+freixo perdeu bandidagem chora,R
+gente pec 241 reduzir gastos aumento salário deputados culpa pt,R
+pode bater mulher amiguinho larga retardado,R
+ainda bem trump ganhou imagina mundo nenhuma guerra preconceito chato quer bomba coreia,R
+ronizeppelin pode crer ofensivo,R
+faço churrasco dessa carne dia inteiro,R
+mulher carne churrasco esquenta pau,R/Hatespeech/Sexism/Women
+boicote mediático pnr crime jornalismo via youtube,R
+boicote mediático pnr crime jornalismo veja vídeo,R
+jpintocoelho60 vai ganhar negociata quanto paga contribuinte agora votou fmedinapcml pre,R
+dilmabr quero dar solidariedade povo rio apoio sergio cabral juntos nesse enfrentamento crime organiza,R
+rpsantos1970 vão aplicar lixo educacional escolas muçulmanas portugal,R
+boas festas juntos vamos renovar portugal pnr portugal feliznatal,R
+negociação salário mínimo portugal renovarportugal pnr,R
+urge mudança renovarmos portugal rpsantos1970 rogériosantos pnr renovarportugal,R
+ronaldo ganhar prémio melhor mundo espero volte dizer soltarem fogos madeira verão passado deu merda,R
+ainda bem ontem fifa n atribuiu prémio fairplay chapecoense parar premiar equipas cujos jogadores atiram p chão,R
+rpsantos1970 pretendo exigir nada apelo vosso bom senso altura mudar pnr pnr renovarportugal portug,R
+alexborges mentira ontem contra trump divisor águas imprensa oficialmente perdeu qualquer compromisso verd,R
+cara sério dizer disso vamos expressar então queimar sede dessa revista,R
+estadão comentando algo liberado brasil,R
+chamar outros fascistavc sabe fascismoseu filho puta,R
+peço desculpa maltamas hoje consegui chegar tempo estádio fazer ritual início jogo chegar darmos volta,R
+acabámos adicionar data tour overdose tourette 11 fev covilhã bilhetes aqui,R
+raúl josé vai cagar deve pedir autorização jorge jesus libertemorauljosé,R
+chega mina fala caso pai dono bordel nãopq parece puta,R/Hatespeech/Sexism/Women
+overdose tourette on the road comboio chegar cidade,R
+américa norte conceito jogar mata escolas ligeiramente diferente pratica aqui,R
+sair ruas manifestar apoio donald trump babacas palhaços idiotas aí p brasil sair rua,R
+pensaporti salmão óptimo,R
+zivkovic pequena maravilha,R
+batalha pedroso – primeiros embates nacionalidade história portugal,R
+teori todo dinheiro avião moderno iria morrer justo iria homologar delação odebrecht,R
+ué lula poderia entusiasmado encontro horas morte teori sobe ainda teoria,R
+fcancio ainda estadista nervosa,R
+arroto engole gás judeu,R/Hatespeech/Religion
+três mulheres acusam donald trump denegrir mulheres,R
+vitormramalho proclamar nova diferença sermos pnr,R
+tonhodrinks mulher virou principal massa manobra globalista nunca tão usadas culpa muita propaganda prepotência,R/Hatespeech/Sexism/Women
+humm sei entendi quer respeito dá respeito dá efeito fumos mileycyrus,R
+bogadosantos trouxanizer heitorhb defende obaminha paz,R
+kathelencrf geração bosta fica internet tuitando ai trump n representa n deixarei trump gorvernar paz bolsonar,R
+bom dia acordou presente jornalista vergonha canal canalha,R
+infelizmente vai lá petições imbecis promulgaram tal aberração têm faca queijo mão,R
+pensaporti melhor banda,R
+pickamiolos acho sempre cagar pressão indústria d seguires 1caminho teres sucessovai continuar fazêlo,R
+nível destas três senhoras exigem respeito trump mileycyrus madonna ladygaga,R
+fatosesquerda ixquerda desconstruindo pedofilia,R
+jairbolsonaro assumiu causa choro todo pelegada pleno começo 2017 imagine ano,R
+tipo acho querer espalhar olhar vai ver muro lá,R
+ricardo4769 ruihcruz apenas demos início movimento,R
+graças imigração desgraça invadidos culpa principal governantes,R
+ei vivoemrede pagapaulo funcionário vcs fez comentários homofóbico nessa rede social gostaria saber po,R
+barcelona empatou campo bétis deste golo ter sido validado óbvio aculpaédobenfica,R
+crescer assim continuaremos cada vez pnr,R
+sadboykevyn jovens opositores distinga humor vez ofensa ordinária passo conversa civilizada,R
+lusanoticias boa solução arranje ovni,R
+juntese mim vivo whitehouse casa branca,R
+blocoesquerda promotor eutanásia tema programa eleitoral honesto esquerdanet,R
+mãe maddie vai concorrer britains got talent espero lá vá fazer célebre truque magia criança desaparecida,R
+aveirenses hoje vossa vez acabámos adicionar vossa cidade tour 4 março bilhetes vend,R
+iran últimos suspiros pronto prum colapso eua veio salvavidas forma acordo c iran 150 bilhões,R
+joaoestela permite evoluir,R
+comandante alerta p perigo tirarem fotos vídeos junto mar sic pede telespetadores p tirarem fotos,R
+bolsonaropresidentedacamara certeza jornais vão dar jeito falar mal dessa tag,R
+provocador extrema direita defender socialismo pleno século xxi equilibro sensatez jamais extremi,R
+ué ontem postaram ônibus queimou sozinho reviravolta hein furo reportagem,R
+racismo mulheres negras latinas sofrem áreas ciência tecnologia engenharia matemática,R/Hatespeech/Sexism/Women
+ouviu g1 militar sai disparando esmo,R
+ioen amor sexo lacranteeee chora família tradicional enquanto mundo real pai tá vendo praça,R
+voluptama ganhou,R
+antoniocostapm agurria oecd senhor primeiro ministro corte gorduras estado mordomias dirigentes sim,R
+entrevista longa super bowl oreillyfactor hoje noite 800 pm 000 br divirtase,R
+imbecil realmente sabe diferença casal ama pornografia incentivada tv 100 anos at,R
+espiritosantocaos iluminação pública ruas resolveu situação soltar pombinhas tb agora psoloficial,R
+luluvet psoloficial claro ficou evidente número homicídios,R
+olha aqui policiafederal apagou printei,R
+henrique raposo dito nada contra comunas fachos pois amigo duas coisas,R
+lamentável toda equipe ainda sido aprovada maior atraso história país obstrução,R
+obg grandes xerifes chefes polícia serviço liderança verdadeiro amigo,R
+16 reportagens notícias falsas relatadas desde vitória trump,R
+treinador 43 anos conseguiu proeza ter dispensado jogadores jonas aboubakar treinador qualquer,R
+acordo pewresearch 99 afegãos favor sharia absurda lei islâmica malvadão,R
+martabiancaa trump carvalho encontrei net sei génio,R
+canalhistory jamais honro prezo país quero vire europa 2,R
+preocupados espanholização banca provável concorrência catalão cantabro três angolanos,R
+tanto tempo sabe ganhar apenas veja caos país preso conflitos todo,R
+precisamente segurança liberdade realdonaldtrump foxnews pnr,R
+porque bandidagem continua bem armada,R
+icymi declaração conjunta presidente trump primeiro ministro shinzo abe sobre coréia norte,R
+72 refugiados vieram eua 32 112 durante imped legal 7 países síria iraque somália,R
+camaralisboa boa tarde sei tutela infraestruturasportugal cml grande peso institucional deve pressionar,R
+reunião maravilhosa pm canadense justintrudeau grupo empresárias líderes canadá estados,R
+mensagem pais dão grandes mamos boca filhos locais públicos nojento parem merda,R
+odecarvalho derrubar estatuto desarmamento maior vitória povo brasileiro longo toda história,R
+pena pessoas gastaram 150 euros jantar dia namorados viram exibição ederson fodase incrível,R
+mídia notícias falsas insana teorias conspiratórias ódio cego msnbc cnn inassistíveis,R
+alexborges vejam participação bolsonarosp audiência escola partido parabéns deu show,R
+odeio feministas falam merda vamos fazer perfis falsos zoando coisas nunca disseramkkk kkkkmitou,R/Hatespeech/Ideology/Feminists
+preescrevem nível jornalismo jornaloglobo inacreditável alguém assine lixo,R
+barreiro terra portuguesa barreiro portugal soflusa,R
+paisdoamaraljp eleição trump trouxe mundo intolerância opositores be pcp geringonça,R
+vitormramalho tudo boa gente outras pnr,R
+furos furos confidenciais ilegais sido problema washington anos falido nytimes outr,R
+acabarem ler novo livro cavaco recomendo,R
+aparentemente 592 páginas livro cavaco silva contêm enxofre armazéns sapec setúbal,R
+existem pessoas ainda jogam perguntados 2017 ainda admiram mundo vá acabar hoje,R
+mídia notícias falsas inventa histórias fontes eficaz democratas desmoralizados is,R
+democratas criar justificativa derrota eleições então inventaram história rússia,R
+10 junho marcha nacionalidade partilhe convide amigos portugal omundoacabaamanhae renovarportugal pnr,R
+vai ter indenização família stfoficial bandidos,R
+naokahlo 11 dicas fazer – manter amizade outra mulher post hoje blog,R
+samsungbrasil ia comprar s7 semana vem desisti,R
+agora sosracismo diz nada basta urge apoio políticas defendidas pnr acabe,R
+obonholmer fazer pesquisa intenção voto pro bolsonaro twitter igual fzr msm pro trump tumblr,R
+acho ridículo respeito homofóbico,R/Hatespeech/Homophobia
+leveo pro puteiro entrar nesse caminho lol sr nunca avô boa sorte joaquinresponde,R/Hatespeech/OtherLifestyle
+acredite mídia notícias falsas convencional casa branca indo bem herdei bagunça es,R
+peça débil mental deixar fã joaquinresponde,R
+jairbolsonaro responde falsa acusação revista veja sobre ter planejado praticar atos terroristas,R
+joaquinvoltou iu fater cry in the shower significa pai chora banho inglês,R
+saoblack jairbolsonaro globonews pois cara,R
+homemdbranco bye bye vão lá 2º lugar carregabenfica,R
+doutormadureira lá porque drárbitro luís ferreira advogado defesa árbitros corruptos condenados apito dourado,R
+ofuxicogospel globo cria debate negativo sobre psicologia cristã dra marisalobo fala sobre caso,R
+livro grandes mentiras sobre igreja católica 3º vendido folha parabéns galera,R
+agora sim lisboa prontos começar,R
+edvaldocmelo obrigado reconhecimento faremos melhor,R
+cara promove celebra assassinato bebês indefesos ventre mãe existe grau maior podridão,R
+passa nada suécia realdonaldtrump sweden renovarportugal pnr,R
+conservadores melhores,R
+helderrocha16 disse santos héteros tb matam traí furta pessoas assim merecem pagar crimes tá bom assim,R
+helderrocha16 chagaluccas caras bom falar vcs preciso sair valeu conversa,R
+ajulysantos levy fidelix pode pagar 25 trilhões aparelho excretor vai continuar igual,R
+joaquinvoltou tá certa maria corsário processar cachorro safado roubou cigarrinho inocente filha paz,R
+parabéns luciano azevedo pps prefeito passo fundo rs resolveu pegar verba r 400 mil,R
+capitalismoop tatydry quero fuzil 762,R
+capitalismoop travesti parece mulher feministas feministas parecem macho mal acabados,R/Hatespeech/Ideology/Feminists
+vagabundo filmado aconteceria policiais via youtube,R
+cara tá carro roubado parado sai atirando contra pm consigo armas granada suspeito,R
+nodoanegra basta mostrar externo,R
+advogados abandonam tal moça acusou feliciano abusoagora tal moçaataca outros deputado procurador,R
+atenção identifiquei estagiário fazendo piadas mal gosto punido desculpem transtorno,R
+apoio total pastor silas malafaia sendo vez vitima dessa mídia comprada esquerda,R
+mancham imagem pastor silas malafaia soltam cadeia assassino goleiro bruno brasil,R
+participei consultório família novotempo tema criação criança sexo neutro bacana,R
+acordar ler notícia dessasisso mãe monstro inversão valores deus,R
+agenda março 18 19 simpósio sobre ideologia gênero,R
+mídia fazendo prefeito fez comigo forçam tá homofobia rotulam ridicularizam,R
+joaquinvoltou goleiro bruno macarrão macarrão macarrão dia vão pro sítio noite alimentam cão,R
+grafite bonitoé arte agora rabiscos pichaçõestem apagar,R
+bloco porão dops acabou chegar aqui camarote glacial joaquin teixeira sabadão carnavalesco promete,R
+gugachacra joaquinvoltou apenas convidou camarote enviou passagem executiva vasp nysp transfe,R
+dica fantasia barata curtir carnaval 1 marque ir bloco 2 apareça 3 diga fantasiado “pai feminista”,R/Hatespeech/Ideology/Feminists
+anapaulavolei rachelsherazade joaquinvoltou danilogentili tô chegando you és ei levando trumpão massa,R
+pastormalafaia irmãos fé creem pessoas bem assistam vídeo,R
+merda hein muçulmanos mandam aí inclusive vetando mulheres sós subúrbio,R/Hatespeech/Religion/Muslims
+parabéns thomas perez acaba nomeado líder cnd poderia feliz pe,R
+família taisho taisho restaurante japonês,R
+cds plantar moralismo vida política portuguesa demissões irrevogáveis demissões prazo aprende centeno,R
+parabéns realdonaldtrump sinal inequivoco estás caminho certo,R
+carlosjbpaz portugal deve único país líder partidário acha elevação carácter fuga político apanhado,R
+grande jantar governadores hoje noite casa branca discutido incluindo saúde pública,R
+próxima jornada overdose touretteon the road jogase toda norte 2 mar viseu 3 mar porto 4 mar,R
+imagina vou deixar ver belos rabos rede tv ver oscar bando actor babaca querendo lacra contra trump,R/Hatespeech/Sexism/Women
+ruihcruz marina nova ti,R
+benfiquistas aguardam ansiosamente reeleição bruno carvalho único receio russos decidam interferir eleições,R
+filme país iraniano apedreja gays degola cristãosganha oscar filme estrangeiro diretor crítica,R
+segundo ricciardi diferença bes sporting neste último banco mau,R
+pedras clamarão,R
+entrevistado foxandfriends 600 am divirtase,R
+confira entrevista artista negra brasileira priscila rezende site laplisitol site construído,R
+felipefepacivil bom viajar mochila mochila,R
+arantxanome cachorro,R
+marianaa016 saudades cantar islão todasmas principalmente cris nocas dia tixa rafa,R
+capitalismoop editorahumanas vdd porque pouco importando segurança dá mulher,R/Hatespeech/Sexism/Women
+assim existe conta chama fufas porto,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+galera rio mulher sequestrada ontem sair bloco agytoê amigas precisam ajuda,R
+alexandraparkclub paraíso apenas 40min curitiba litoral faça evento empresas igrejas,R
+israelfinardi capitalismo liga ninguém liberta pessoas ter oportunidade negociar verdadeira liberda,R
+pnr pnr presta homenagem último grande estadista portugal viu nascer notascampanha renovarportugal,R
+joaquinvoltou 21 anos mamonas assassinas vivos estaria fazendo textão acusando cara machismo homofob,R
+barbaridade aceitar refugiados né,R/Hatespeech/Origin/Migrants/Refugees
+flaviobolsonaro reinaldoazevedo pode usar canais defender psdbista estimação quiser cometer crime,R
+machuca discutindo sobre roupaeu dou nenhum desgosto gente mora inferno quintura quer use burca,R
+g1 união europeia ameaça sanções países recebem refugiados g1,R
+comissão europeia afirmou hesitará aplicar sanções contra países recusam receber,R
+teresa quero ir quintal toda gente excepto ignores teresa sitio fufas toda gente bora1,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+ijunqsouza pastormalafaia religiosos devemos agradecer reneguem homossexualismo enquanto todos calaram,R/Hatespeech/Homophobia
+cadê caridade muçulmana emirados árabes recebem refugiados,R
+tpjaros lei imigração abre fronteiras brasil refugiados libera onu emitir vistos tirando autonomia pf,R
+alcoolinda teresa quero ir quintal toda gente excepto ignores teresa sitio fufas toda gente bora1,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+arthurmedal moço post facebook automaticamente publicado twitter deixa burro pqp,R
+luanapiovanilp corrupta dilma recebeu 150 milhões propina disse delação odebrecht insulto honestidade qua,R
+daleajactaest olha afinal islão pai tens argumento mesma tens substituir hitler isis,R
+duas evidências consequência volta casa faz boa viagem imigraçãoinvasora islão realdonaldtrump,R/Hatespeech/Origin/Migrants/Immigrants
+aberração adulto impor crianças flácida relação ideologia gênero nada parece nãoàideologiadegênero,R/Hatespeech/Sexism/Transexuals
+situação europa resumida aceitar refugiados lidar risco terroristas infiltrados aceitar taxado xenofóbico,R/Hatespeech/Origin/Migrants/Refugees
+alexandregarcia brasileira estuprada cada 11 minutos reagimos escandalizamos preocupamos american,R
+redução pena estupro vulnerável retrocesso gigante legislação brasileira primeiro,R
+fazendo parte cenas filme lista schindler impossível emocionar,R
+toda denúncia estupro verdadeirainfelizmente descobrimos issoapós vida suposto agressor ter sido destruída,R
+es favor vinda refugiados — lado sim outro,R/Hatespeech/Origin/Migrants/Refugees
+ateu agnóstico grande merda fio acredita jesus nazaré mim gente paz,R/Hatespeech/Ideology
+ritxar bacete afirma mudança porque homens interessados igualdade via elpaisbrasil,R/Hatespeech/Sexism/Men
+edmilsonpapo10 fãs fazem selfie bruno 400 intelectuais querem lula presidente entenderam,R
+micheltemer mansualmeida mentira brasil dinheiro ajudar refugiados nunca contribuiram centa,R
+sarahlskarafiol refugiados podem direito aceitalos sendo contra ação hungria,R
+menina veste menina naoaideologiadegenero,R/Hatespeech/Sexism/Women
+gabrielplnheiro faço passar conteudo,R
+bolsonarosp audiência custódia preso esculhamba juiz tudo certo porque desacato liberdade expressão crime,R
+atualização semanal juntese mim aqui,R
+tô beira piscina pessoa vem perguntar tô biquíni tô po tô burca,R
+votei psdc 27 eymael democrata cristão zero citações lava jato consciência tranquila exemplo dignidade,R
+ii rapaz sai homem gabrielpgd23,R/Hatespeech/Sexism/Men
+nevermindbfh fufas fofas ehhehehe,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+leumasamil 20 anos odebrecht pagou propina farc,R
+clasarin estadao obama grampeou dilma tá chamando trump louco,R
+chrisbranco joaquinvoltou amor,R
+alô feministas jesusestávoltando pai,R/Hatespeech/Ideology/Feminists
+bergoglio indo contra realidade enquanto muçulmanos 10 filhos papa quer menos católicos papa comunista,R
+auuahhuauhahu trump joaquinvoltou,R
+ahoflavinho blogdopim grande destrinchou problema cabeça esquerdistas,R
+ódio lgbt,R
+livro tá mega desconto amazon sai r 1794 via amazon,R
+avaliação livro meuamigosecreto feminismo além redes amazonbr obrigada,R
+euluana66 pois homem acha orgasmo feminino existe risos pesames mulheres transaram,R/Hatespeech/Sexism/Women
+verdade cnd permitiu fbi verificar servidor outros equipamentos após descobrir hackead,R
+marcitaum lobaoeletrico diria todo esquerdista orgulhoso fugiu aulas história pulou aulas filosofia nao sabe,R
+altrightbr destrua comunismo cobra morta antes nascimento pois mordida letal praga vermelha pode,R
+ningem questões d adaptação mete inglês branco neve angola vê qnt tempo apanha escaldão,R
+janainadobrasil 13 prática enraizada país faz empresários subservientes poder lugar,R
+arabiangirlxx tipo doença comum angola catinga pacientes entram médico catinga faço nada filhonão t,R/Hatespeech/Racism/Blackpeople
+fufas usam sempre msm argumento cona,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+imjustkiff fufas usam sempre msm argumento cona,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+oantagonista leitor antagonista responde sim 783 x 217,R
+dt ana gomes mep maka angola bento kangamba juízo,R
+jessedossanto18 marisalobo gostei vídeo fez sobre disneyvocê todo apoiodeus abençoe guarde,R
+blogfeministas campanha pelavidadaspessoastrans luta contra transfobia tbm luta feminista,R
+onde feministas,R
+macsanto777 voce ta lendo catraca livre amigo fidel matou milhoes tirou foto lado lula dilma aecio,R
+macsanto777 nazista contra judeu negro bolsonaro favor judeuisrael sogro paulo negaopesquisa net,R
+juancosta473 youtube oxi hauhauha ver quer dizer nao acontece,R
+gaviaochis enfim artistas bem começando manifestar,R
+pastormalafaia puxa vou perder sono causa tanta calúnia xingamento kkkkkk debochar desses medíocres kkkkk ñ eme,R
+90 pais sabem crianças adolescentes assistem youtuber gay teen doutrinando filhos luba etc,R/Hatespeech/Homophobia/Homossexuals/Gays
+ketsiasousa filhos vão aprender sobre bela monstro sobre belo monstro enquanto crianças altura aprendem,R/Hatespeech/Homophobia/Homossexuals/Gays
+ericksoneriie curateangola sei nunca vi desenho questão porém idades podem ver beijo gay pod,R/Hatespeech/Homophobia/Homossexuals/Gays
+ericksoneriie tens razão concordo totalmente acho 0 5 putos preocupados saber cores números tipos,R
+portugal distinguese “porque vai ter campos refugiados,R
+4 anos chorão mudou banda trocou charli brau jr sepultura paz,R
+chiiaritta quer dizer sabias equações trigonométricas esconder,R
+curateangola deturpar factos saber equações trigonométricas n fará criança intolerante sabe,R
+martabiancaa acredito prova,R
+pintomondim bardamerda eurovisão,R
+maathbz farei biografia bolsonaro,R
+p mim ñ faz sentido ter filhos p ficarem mundo tão injusto violento esquerda crescendo cada,R
+maathbz título melhor biografia bolsonaro jair bolsonaro,R
+gabrielplnheiro franceses saíram protestar favor le pen candidatos direita,R
+basta rj escóriaainda vai causar confusão paulo misscaviar fussballsehr ajulysantos,R
+fongas fufas sapatonas lésbicas – capazes,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+refugiados entrassem automaticamente estaria cumprindo maior dever proteger país,R/Hatespeech/Origin/Migrants/Refugees
+capitalismoop eitaaa ultima vez tomei sp conheço doceria latinha vender fica longe d onde moro,R
+curateangola ah então cartoon vai crianças,R
+fufas d lx tão falsas dói kkk,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+caioblind faz outra matéria explicando porque países arábia recebem refugiados valeu,R
+pefabiodemelo ta falando felipe neto felipeneto,R
+jornaloglobo algum filme feminista contra funk,R
+padrepaulo abortoduto hojeaovivo padrepauloricardo urgente abortonão,R
+sabia cara tremendo pau cu dá ver vídeos youtube,R
+josesoubrasilia hora invadir congresso pm vai atirar contra,R
+breve brasilcom aprovação pl imigrante proposta motorista mariguella aloysionunes nunes,R
+crixtal7 franceses vão ruas apoio marine le pen após golpe poderia retirála disputa presid esquerda agoniza mund,R
+alexandregarcia entendo pessoa confessa crime ainda chamada suspeito,R
+basta escandalos corrupçãomas tudo ruim marxismo trouxe tambem,R
+vivemos totalitarismo pensamento único donos liberdade pnr enfrenta denuncia besta,R
+leite show thenoite,R
+hugh jackman veio sp tomou pingado pro rio ia tomar tiro,R
+top 3 filmes todos tempos volta futuro 2 poderoso chefão 1 curtindo vida adoidado,R
+laudimapalhares curateangola tivandro crianças,R
+top 3 filmes moleque american pie reencontro superbad projeto x,R
+sidneyandreato gabrielplnheiro raquelrangel0 holocausto canibel achei tudo,R
+expor ex facebook suficiente,R/Hatespeech/Sexism/Women
+obrigado exxonmobil 20 bilhões investimento criando 45000 empregos indústria c,R
+btchissola diz crise angola,R
+renatosvp g1 vcs dizem leitores revista citada ultraesquerdista,R
+psicólogo missionária marisa lobo descreve forma dinâmica 12 razões psicológicas,R
+editorahumanas sexta feira,R
+brasil quer legalização drogas stf legalização drogas rejeitada maioria população,R
+maravilhoso novo plano saúde pública revisão negociação obamacare total completo desas,R
+10h manhã hora pensar onde vou almoçar pausa trabalho maconheiro acorda 12h torn,R
+adlepdv madjuntopt s atender imigrantes portugueses vzla pronto vão refugiados algum país casos,R
+preocupem livrar limites estatais trará competitividade estará fase 2 3 plano sa,R
+caioperez2 mano tô rachando angola falando quer pega maria rita kakakaka acredita,R
+época padre pagava pastel caldo cana,R
+vanzkafka sério provado acho ngm dá carro 70 mil causa chantagem sendo inocente,R
+vanzkafka então vaticano perdeu politicagem barata hj vontade cristo importa menos número fieis,R
+vamos boicotar habibs fiscalizar droga meninos entram loja intimidar clientes,R
+fatosesquerda justiceirosujo acho habibs deveria fazer mapeamento cada ativista falou merda meter famoso,R
+boitempo dá 70 desconto todos livros escritos mulheres via editoraboitempo,R
+catolicando tbm refugiados qm casa passam fome qm abandonados pais familiares enfi,R
+filme ex ativista gay tornou pastor causa polêmica,R
+vanapauloo csaremerson curateangola 2 prestar atenção pornografia contexto beijo posto dificil,R
+jair messias bolsonaro desmascara padre pedófilo atacou,R
+estadao comunismo venezuela lindo ne nao falta nada pro povo,R
+bccmfaria98 quero ler sobre islão parecia mt interessante n faço ideia ultimo lançou tho,R
+tás ver cena tou minado campos angola ultramar,R
+lissaniamenezes angola ainda ratificou acordo ortográfico língua portuguesa escrevam bem yh,R
+politicamente correto pqp,R
+fico indignada vejo brasileiro desmerecendo refugiados imigrantes acho nao conhecem história br ne mores,R/Hatespeech/Origin/Migrants/Immigrants
+zecarlosantos2 unico nao corrompenao vende chega aroporto aplaudido vaiado,R
+juandddrade 7 to cagando pras pessoas chamam gorda magra alta baixa feia etc opiniões vale,R/Hatespeech/Sexism/Women
+gabrielplnheiro assaltar levou bala,R
+desesquerdizada oficialmrcatra deu desesquerdizada lógica racista justiceiros socais durante programapanico calou,R
+tipo roupa feia olha fala amiga piranha roupa ta deixando gorda ja,R/Hatespeech/Body/Fatpeople
+esquerda inventa problema incute cabeça pessoas problema existe repete mentira acredit,R
+nathsantos20 coisa feia leitoa tá gorda igual porca,R/Hatespeech/Body/Fatpeople
+gente mulher maior cdf cozinha ainda veio texas formada masterchefbr,R
+fã dessa mulher cozinha telha masterchefbr,R
+kkkkkkkkkkkkkkkkkkkkkkkk mulher burra pqp,R/Hatespeech/Sexism/Women
+mulher idiota assimerrado bofe burra caralho kkkkkkkkkkkkk,R/Hatespeech/Sexism/Women
+walisonbernard1 sermulheré vai la amiguinhas parabéns todas mulheres incriveismenos dilma,R
+pesado real estaremos ocupando ruas neste dia 8m,R
+pau cu voces rostinho maravilhoso corpo lindo ficam dizend so mt feia obg bb so horrivel so gorda,R/Hatespeech/Body/Fatpeople
+leandroow3 vdd kkkkkkk esqueci falar aí,R
+sermulheré lutarmor brasil direita segurança ruas,R
+vo chega garra daqui 7h toda perdida saber nd 3 mil conteúdo atrasado triste feia gorda burra,R/Hatespeech/Body/Fatpeople
+gorda feia mata kemilly,R/Hatespeech/Body/Fatpeople
+vou falar viu mulher burra dá valor naquilo pqp,R/Hatespeech/Sexism/Women
+otmar03 djoukapb tambem tm video bruno namorada maos dadas nao natureza tratar bem mulher kkkkk,R/Hatespeech/Sexism/Women
+desculpa entendo meme filho puta,R
+perryoutside rachelsherazade joicehasselmann rotulo diferenciaçãoja nao posso comparala,R
+taiannerr mulher burra pqp,R/Hatespeech/Sexism/Women
+quartadetremurasdv deus tao bom cmg hj ta mó gorda feia,R/Hatespeech/Body/Fatpeople
+nada gorda feia smp linda nenem —,R/Hatespeech/Body/Fatpeople
+egocentricpapi mulher inteligente outro mambo ya burra pode bue bonita burra ta gato pode morrer,R/Hatespeech/Sexism/Women
+camilojesus ensinar mal crianças pessoa homossexual mim indiferente somente contra propaganda dra,R
+boba burra ingênua santa pessoa riso fácil choro prazer mulher,R
+odeio mulher burra,R/Hatespeech/Sexism/Women
+magra gorda estrias feia bonita importa porque perfeitas feliz dia mulher,R
+sabem apenas 5 homicídios elucidados internationalwomensday sermulheré diadamulher,R
+nesse dia mulheres bom pararem retratar mulher loucaciumentaburrafrágil,R/Hatespeech/Sexism/Women
+acho legal feministas compartilham coisa quebrando tabu chamam outras gorda feia briga macho parabéns p,R/Hatespeech/Body/Fatpeople
+deadputa faltava dizeres angola cidade xd,R
+mariaamsj quero assim feia gorda casal,R/Hatespeech/Body/Fatpeople
+feliz dia mulheres tammy gretchen várias alterações chassi continua sendo mulher,R
+brothersdireita existem mulheres ladras canalhas safadas dissimuladas sinto voce sabia disso feliz dia mulh,R
+annyxv diadamulher data comemorativa dia conscientização luta diária mulheres busca respeito,R
+pessoal chamando transfóbico risos trabalhei 22 anos transportadora vou ter fobia transportes inventem outra paz,R
+carlosarremedo castorscs tô aqui trabalhando invés fazer baderna,R
+g1 preconceito ta dizendo mulheres incapazes fazer curso complexo existe ne,R/Hatespeech/Sexism/Women
+diadamulher feliz dia mulheres dia internacional mulher bolsonaroreidomundo voces ainda capac,R
+namoras cachopa usas dia mulher irem duas jantar tas burra mãe pobre,R
+meupaiausente feministas podem esperar dia crianças trans podem esperar dia mentira comemorarem diadamulher,R/Hatespeech/Sexism/Transexuals/Transwomen
+blogfeministas 8 março vamos juntas dê dizendo 8mbrasil 8mbr euparo,R
+thaisinha euparo disparidade salarial dificuldade reinserção mercado discriminação ter filhosestar grávida dupl,R/Hatespeech/Sexism/Women
+caso rufino antónio avança procuradoria geral república notícia,R
+mulher poderosa perde poder causa atitude burra homem,R
+nao deu carregar passe mulher setuf eh burra,R/Hatespeech/Sexism/Women
+luandug mulher tudo burra brincadeira,R/Hatespeech/Sexism/Women
+brothersdireita olha cacetete russo muheres usadas feminismo contra violencia so,R/Hatespeech/Sexism/Women
+po gata fica cmg sai daqui então queria toda zoada gorda feia ia pegar pena,R/Hatespeech/Body/Fatpeople
+estadao estuprador menor estará garantida defesa maria rosario igual champinha menina esquerda,R/Hatespeech/Sexism/Women
+linda maravilhosa fofa gorda feia feio acha gordo feio ficaadica,R/Hatespeech/Body/Fatpeople
+pleno dia internacional mulher ouvi pai dizendo pro filho mãe burra,R/Hatespeech/Sexism/Women
+feminismo brasil mero cooptador mulheres militância esquerdista defende mulheres apenas,R
+passando aqui desejar feliz diadamulher mulher desde ultrassom,R/Hatespeech/Sexism/Transexuals/Transwomen
+stepapaiano mídia mostrou stf vigie ver todos jairbolsonaro bolsonarosp flaviobolsonaro,R
+jufabiana25 bom saber dia mulher,R/Hatespeech/Sexism/Women
+mulher fica grávida fica burraquando começa nível burrice pergunto gestante respsta sim ate ja entendo,R/Hatespeech/Sexism/Women
+1840 max vai tomar cu então 1840 max gorda feia 1840 max amor 1841 leticia gorda maxwell,R/Hatespeech/Body/Fatpeople
+7x1 porque david luiz saiu psg,R
+camillaconti ia perguntar dia internacional mulher mundo todo parei pouquinho pensar agora to sentin,R
+assim angola europa xd,R
+nunca senti tão gorda tão feia tão tão mal,R/Hatespeech/Body/Fatpeople
+gorda feia ogra,R/Hatespeech/Body/Fatpeople
+falou chama pessoas burra quer ficar casa fazendo papel mulher lavar louça,R/Hatespeech/Sexism/Women
+esperar povo aceita cão cor abra portas refugiados nojo,R/Hatespeech/Origin/Migrants/Refugees
+daqui pouco 21hrs estreia documentário euvocêtodasnós canalfutura doc fala sobre feminismo ciberativismo percam,R
+mawara elmalditocabron começar opor islã verdade inclusive contra refugiados ocidente,R/Hatespeech/Origin/Migrants/Refugees
+acho burra mulher prefere separar viver mentiras otária gosta corna fazer feliz,R/Hatespeech/Sexism/Women
+i seminário feminista sobre encarceramento encarceramento mulheres fenômeno últimos anos vem,R
+aninhacaraujo sofiakalap biamontezumamf vida babar ovo bia bia feia gorda,R/Hatespeech/Body/Fatpeople
+yesanamia n aguento sozinha n aguento gorda n aguento feia n aguento peso morto mundo n ag,R/Hatespeech/Body/Fatpeople
+porra mulher burra,R/Hatespeech/Sexism/Women
+falta punição estuprador assassinos,R
+porra difícil refutar falei fatos lógica verdades,R
+usar frase economias caracteres chamar burro fácil quero ver refutar falei fatos,R
+refugiados muçulmanos flagrados atacando polícia nacional francesa manifestantes anarquistas,R
+ruggeron tema lógicas quero ver refutar,R
+hoje paquerado trânsito,R
+precisa lembrar alguém consegue refutar linha p sentir merda sinal,R
+anapntes valehomossexual então achar gorda feia falta autoestima ataaaa,R
+rtp angola bom nota economia política baixo portugal seguro flexível dois,R
+burro argumento jênia consegue refutar linha falei eis bolha marxismo cul,R
+estadao trump demitiu cara audiência aprendiz tava caindo correto,R
+sensoinc habibs pósverdade laudo revela menino joão morreu após uso lançaperfume,R
+lembrei d pai chamou mulher d burra parar delegacia falou burra falei burra,R/Hatespeech/Sexism/Women
+5 anos atrás esteava internet naosalvo,R
+cviniciuslm sim ontem sp,R
+lógica deste jovem sensato glstecanela,R
+deus muita doutrinação alienação imprensa impõe coitadinha,R
+bolsonaro prega volta militares sim defende regime militar rebate mentiras faladas sobre est,R
+passistalu videmc negra mãe ossaim vem alaketú jêje angola cura desejo puro fé futuro vai escola,R
+glaciefranca otmar03 sbt virou quê jornalista analice nicolau disse bolsonaro falou merece estuprada porq,R
+desmascarado vem ironia hahahaha,R
+maometanos colonizar espanha querem casar espanholas forma propagar islão,R/Hatespeech/Religion/Islamists
+famoso argumentos,R
+pessoal passem guerreira itsmabizao consegue terminar debate deu block opositor,R
+rondyrrj celso daniel sabe tortura,R
+editorahumanas gostaram novo logo,R
+panichiraphael lembremse feminazis oriente médio mundo muçulmano onde reina sharia dia internacional mulher,R/Hatespeech/Ideology/Feminists
+meninas consegue ir escola toda bonitinha vou igual sapatão ainda sono,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+belaaferaa aceitei sapatão sinistra,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+whoztyles 30 ana carolina 42 anos rainha sapatão voz voz coisa linda dessas,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+jornalistazinho neoateísta militante sabe atacar cristianismo,R
+carlosbolsonaro olha coisa 12 militantes psol cheirando mijo maconha vaiam cara vira notícia imp,R
+bom dia pras sapatão,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+gosteitha vira sapatão apenas descobre aksjakajhs,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+cassiocl serviço contenção vazamento barreiro bombas flutuantes começam jogar água reservatório campos barro,R
+ngm quer ir cmg noite branco,R
+parabéns mim cheguei atrasada novo,R
+presidente dragões voltou mostrar descontentamento invicta azul branco,R
+primeira vez saio todo branco pessoas vão achar pai santo,R
+vou cantar paixao vem dentro sentimento verde branco grená diadeflu,R
+soubenfica1904 slbenfica lindo vermelho branco,R
+boom dia sonhou sapatão lindaporém sonho super bizarro lembro metade,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+devilshug pessoas hoje dia falam td hora amar aceitar branco hétero deve fazer,R/Hatespeech/Racism
+joaoogaspar sorriso branco causa colgate,R
+lewisface erro psg jogar branco barça pensou realmadrid msn,R
+tô vontade bem grande mandar atual dá ex ir fuder quer ficar encarando,R
+beaap18 dá gosto sair casa tempo,R
+bom dia comendo pão branco,R
+to sapatao scrr,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+“ai luigi ta militando saco” pois entendo privilégios ter nascido homem branco,R
+sapatao tudo apegada,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+pessoas visitaram perfil grupos sigo twitter,R
+colocaram vinho branco gelar comemorações hoje,R
+biaarantesreal juro ia comer achando chocolate branco socorro,R
+centro trânsito lento rua pedro ivo desde rua joão negrão proximidades terminal guadalupe rua barão rio branco,R
+thalytaangelici sapatão sofre tanto,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+vsf mano fico perplexo ver umas desgraça apoiar umas coisas tão absurdas dia negro falando salvou negro branco,R
+gnt n sapatao viado chama assim kkk,R/Hatespeech/Homophobia/Homossexuals/Gays
+lipesff johnnschubert verdade sempre gatinho sapatão demais prestar atenção hahahah,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+escutando músicas sapatão,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+vida sapatão amar amiguinha hétero sabe apaixonada,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+descobri sapatao,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+balaatreem tão sapatão sabe oq pauuuuu,R/Hatespeech/Homophobia/Homossexuals/Lesbians
+bielvolei paullinh4 basta frequentar uns minutinhos grupo rexona ver surpresa gritarem sapatão,R/Hatespeech/Homophobia/Homossexuals/Lesbians

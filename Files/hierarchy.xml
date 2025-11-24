@@ -1,0 +1,120 @@
+<hierarchy>
+
+    <node name="Hatespeech">
+        <node name="Sexism">
+            <node name="Women">
+                <node name="Lesbians"/>
+                <node name="Blondwomen"/>
+                <node name="Thinwomen"/>
+                <node name="Brazilianwomen"/>
+                <node name="Homelesswomen"/>
+                <node name="MenFeminists"/>
+                <node name="Muslimwomen"/>
+                <node name="Oldwomen"/>
+                <node name="Transwomen"/>
+                <node name="Fatwomen"/>
+                <node name="Uglywomen"/>
+            </node>
+
+            <node name="Men"/>
+
+            <node name="Transexuals">
+                <node name="Transwomen"/>
+            </node>
+
+            <node name="Feminists"/>
+        </node>
+
+        <node name="Body">
+            <node name="Fatpeople"/>
+            <node name="Fatwomen"/>
+            <node name="Uglypeople"/>
+            <node name="Uglywomen"/>
+            <node name="Thinpeople"/>
+            <node name="Thinwomen"/>
+        </node>
+
+        <node name="Racism">
+            <node name="Blackpeople"/>
+            <node name="Asians"/>
+            <node name="Whitepeople"/>
+            <node name="Indigenous"/>
+        </node>
+
+        <node name="Ideology">
+            <node name="Leftwingideology"/>
+            <node name="Feminists"/>
+            <node name="Agnostic"/>
+        </node>
+
+        <node name="Homophobia">
+            <node name="Homossexuals">
+                <node name="Lesbians"/>
+                <node name="Gays"/>
+            </node>
+            <node name="Bissexuals"/>
+        </node>
+
+        <node name="Origin">
+            <node name="Migrants">
+                <node name="Immigrants"/>
+                <node name="Refugees"/>
+            </node>
+
+            <node name="Africans"/>
+            <node name="Arabic">
+                <node name="Egyptians"/>
+                <node name="Iranians"/>
+            </node>
+
+            <node name="EastEuropeans">
+                <node name="Russians"/>
+                <node name="Ucranians"/>
+            </node>
+
+            <node name="Latins">
+                <node name="Argentines"/>
+                <node name="Mexicans"/>
+                <node name="Venezuelans"/>
+            </node>
+
+            <node name="SouthAmericans">
+                <node name="Brazilians"/>
+                <node name="Brazilianwomen"/>
+            </node>
+
+            <node name="Ruralpeople"/>
+        </node>
+
+        <node name="Religion">
+            <node name="Islamists"/>
+            <node name="Muslims">
+                <node name="Muslimwomen"/>
+            </node>
+            <node name="Jews"/>
+        </node>
+
+        <node name="OtherLifestyle">
+            <node name="Criminals"/>
+            <node name="Gamers"/>
+            <node name="Vegetarians"/>
+            <node name="Poorpeople"/>
+            <node name="Polyamorous"/>
+            <node name="Footballplayerswomen"/>
+            <node name="Streetartists"/>
+            <node name="Jornalists"/>
+        </node>
+
+        <node name="Health">
+            <node name="Disabledpeople"/>
+            <node name="Autists"/>
+        </node>
+
+        <node name="Ageing">
+            <node name="Oldpeople"/>
+            <node name="Olderpeople"/>
+            <node name="Youngpeople"/>
+        </node>
+    </node>
+
+</hierarchy>
