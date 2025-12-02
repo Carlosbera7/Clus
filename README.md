@@ -1,4 +1,4 @@
-'''
+```
 [Data]
 File = T:\ProjetoPython\Grafo\folds\train_fold1.arff
 TestSet = T:\ProjetoPython\Grafo\folds\test_fold1.arff
@@ -16,7 +16,7 @@ Heuristic = GainRatio
 TrainErrors = Yes
 TestErrors = Yes
 WritePredictions = Test
-'''
+```
 
 ## F1 médio por label – comparação entre abordagens
 
