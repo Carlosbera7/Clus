@@ -1,6 +1,6 @@
 ## F1 médio por label – comparação entre abordagens
 
-| Label | Local no Pai (Geral) | Multilabel (Geral) | Local no Pai (Clus) |
+| Label | Local no Pai (Geral) | Multilabel (Geral) | Global (Clus) |
 |---|---:|---:|---:|
 | Fat.women | 0.793026 | 0.712968 | 0.751048 |
 | Body | 0.774056 | 0.737845 | 0.776954 |
