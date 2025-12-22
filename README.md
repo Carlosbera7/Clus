@@ -23,7 +23,7 @@ WritePredictions = Test
 ## F1 médio por label – comparação entre abordagens
 
 | Label | Local no Pai (Geral) | Multilabel (Geral) | 
-|---|---:|---:|---:|
+|---|---:|---:|
 | Fat.women | 0.793026 | 0.712968 | 
 | Body | 0.774056 | 0.737845 |
 | Fat.people | 0.771810 | 0.713508 | 
