@@ -1,3 +1,6 @@
+https://dtai.cs.kuleuven.be/software/clus/hmcdatasets/
+https://dtai.cs.kuleuven.be/software/clus/clus-manual.pdf
+
 ```
 [Data]
 File = T:\ProjetoPython\Grafo\folds\train_fold1.arff
