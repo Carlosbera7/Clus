@@ -26,6 +26,21 @@ WritePredictions = Test
 ```
 [CLUS] Error: Illegal parent child tuple in .arff
 ```
+
+```
+GO:0003674 (molecular_function)
+
+GO:0008150 (biological_process)
+ └── GO:0009987 (cellular process)
+     └── GO:0006886 (intracellular protein transport)
+         └── GO:0006888 (ER to Golgi transport)
+
+GO:0005575 (cellular_component)
+ └── GO:0043226 (organelle)
+     └── GO:0030134 (ER to Golgi transport vesicle)
+```
+
+        
 ## F1 médio por label – comparação entre abordagens
 
 | Label | Local no Pai (Geral) | Multilabel (Geral) | 
