@@ -28,16 +28,20 @@ WritePredictions = Test
 ```
 
 ```
+
+@DATA
+0.65,1.39,-0.29,-0.54,-0.6,-0.45,-0.13,0.35,-0.01,0.49,0.18,0.43,-0.23,-0.3,-0.24,0.23,0.04,0.09,0.18,0.16,-0.01,-0.21,?,?,?,0.14,0.58,0.25,0.03,-1,0,-0.41,0.1,0.14,0.4,0.2,0.24,?,0.26,-0.39,0.43,-0.26,-0.33,-0.37,?,?,-0.59,-0.16,0.66,-0.1,0.07,-0.33,0.41,-0.23,-0.51,0.58,0.07,0.32,0.01,0.17,?,-0.21,-0.14,-0.17,-0.28,-0.16,0.2,0.36,0.17,0.39,0.1,0,-0.16,0.29,-0.06,-0.26,-0.41,GO0003674@GO0030134@GO0006888
+
 GO:0003674 (molecular_function)
+
+GO:0005575 (cellular_component)
+ └── GO:0043226 (organelle)
+     └── GO:0030134 (ER to Golgi transport vesicle)
 
 GO:0008150 (biological_process)
  └── GO:0009987 (cellular process)
      └── GO:0006886 (intracellular protein transport)
          └── GO:0006888 (ER to Golgi transport)
-
-GO:0005575 (cellular_component)
- └── GO:0043226 (organelle)
-     └── GO:0030134 (ER to Golgi transport vesicle)
 ```
 
         
