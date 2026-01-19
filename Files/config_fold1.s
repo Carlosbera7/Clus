@@ -1,7 +1,7 @@
 [Data]
-File = T:\ProjetoPython\Grafo\folds\train_fold1.arff
-TestSet = T:\ProjetoPython\Grafo\folds\test_fold1.arff
-PruneSet = T:\ProjetoPython\Grafo\folds\test_fold1.arff
+File = T:\ProjetoPython\Grafo\folds\train_fold1_leaf_only.arff
+TestSet = T:\ProjetoPython\Grafo\folds\test_fold1_leaf_only.arff
+PruneSet = T:\ProjetoPython\Grafo\folds\test_fold1_leaf_only.arff
 
 [Hierarchical]
 Type = DAG
@@ -17,4 +17,6 @@ FTest = [0.001,0.005,0.01,0.05,0.1,0.125]
 [Model]
 MinimalWeight = 5.0
 
+[Output]
+WritePredictions = Train
 
