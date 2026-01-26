@@ -79,3 +79,6 @@ GO:0008150 (biological_process)
 | Origin | 0.000000 | 0.000000 |
 | **Média Geral** | **0.334454** | **0.308972** |
 
+
+<img width="630" height="470" alt="grafico" src="https://github.com/user-attachments/assets/b9bce327-062c-49ff-b2a5-2dd40e7f7cea" />
+
