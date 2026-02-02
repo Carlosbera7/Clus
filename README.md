@@ -82,21 +82,21 @@ GO:0008150 (biological_process)
 
 <img width="630" height="470" alt="grafico" src="https://github.com/user-attachments/assets/b9bce327-062c-49ff-b2a5-2dd40e7f7cea" />
 
-| Label              | Local no Pai (Geral) | Multilabel (Geral) | CLUS – T(50%) |
+| Label              | Local no Pai (Geral) | Multilabel (Geral) | CLUS (Geral) – T(50%) |
 | ------------------ | -------------------: | -----------------: | ------------: |
 | Fat.women          |             0.793026 |           0.712968 |             – |
 | Body               |             0.774056 |           0.737845 |             – |
 | Fat.people         |             0.771810 |           0.713508 |             – |
 | Ugly.people        |             0.764381 |           0.682302 |             – |
 | Ugly.women         |             0.731110 |           0.657494 |             – |
-| Sexism             |             0.476666 |           0.595224 |         0.074 |
-| Women              |             0.451467 |           0.606187 |         0.053 |
+| Sexism             |             0.476666 |           0.595224 |         0.051 |
+| Women              |             0.451467 |           0.606187 |         0.088 |
 | Refugees           |             0.436596 |           0.254013 |             – |
 | Migrants           |             0.429644 |           0.211190 |             – |
-| Homophobia         |             0.403977 |           0.501557 |         0.216 |
-| Lesbians           |             0.401788 |           0.555606 |         0.285 |
-| Homossexuals       |             0.396994 |           0.506226 |         0.236 |
-| Hate.speech        |             0.558165 |           0.558165 |         0.307 |
+| Homophobia         |             0.403977 |           0.501557 |         0.180 |
+| Lesbians           |             0.401788 |           0.555606 |         0.193 |
+| Homossexuals       |             0.396994 |           0.506226 |         0.176 |
+| Hate.speech        |             0.558165 |           0.558165 |         0.246 |
 | Racism             |             0.279572 |           0.099487 |             – |
 | Men                |             0.228970 |           0.094444 |             – |
 | Black.people       |             0.220044 |           0.061905 |             – |
@@ -112,7 +112,7 @@ GO:0008150 (biological_process)
 | Islamists          |             0.000000 |           0.000000 |             – |
 | OtherLifestyle     |             0.000000 |           0.000000 |             – |
 | Origin             |             0.000000 |           0.000000 |             – |
-| **Média Geral**    |         **0.334454** |       **0.308972** |    **0.195*** |
+| **Média Geral**    |         **0.334454** |       **0.308972** |    **0.155*** |
 
 ```
 === Executando CLUS ===
