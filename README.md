@@ -44,7 +44,7 @@ GO:0008150 (biological_process)
          └── GO:0006888 (ER to Golgi transport)
 ```
 ```
-  T(50.0)        : precision: 0.677966, recall: 0.099751, coverage: 1, TP: 40, FP: 19, nbPos: 401
+1-  T(50.0)        : precision: 0.677966, recall: 0.099751, coverage: 1, TP: 40, FP: 19, nbPos: 401
       Hatespeech[0], def: 0.2205, prec: 0.641, rec: 0.2, TP: 25, FP: 14, nbPos: 125
       Homophobia[1], def: 0.0564, prec: 0.8, rec: 0.125, TP: 4, FP: 1, nbPos: 32
       Homossexuals[2], def: 0.0511, prec: 0.8, rec: 0.1379, TP: 4, FP: 1, nbPos: 29
@@ -53,40 +53,43 @@ GO:0008150 (biological_process)
       Women[2], def: 0.0653, prec: 1, rec: 0.027, TP: 1, FP: 0, nbPos: 37
 
 
+ 2 - T(50.0)        : precision: 0.692308, recall: 0.04557, coverage: 1, TP: 18, FP: 8, nbPos: 395
+      Hatespeech[0], def: 0.2152, prec: 0.6775, rec: 0.0912, TP: 11, FP: 5, nbPos: 122
+      Homophobia[1], def: 0.0557, prec: 0.6767, rec: 0.0645, TP: 2, FP: 1, nbPos: 31
+      Homossexuals[2], def: 0.0521, prec: 0.6767, rec: 0.069, TP: 2, FP: 1, nbPos: 29
+      Lesbians[3], def: 0.0416, prec: 0.6767, rec: 0.087, TP: 2, FP: 1, nbPos: 23
+      Sexism[1], def: 0.0882, prec: 1, rec: 0.03, TP: 1, FP: 0, nbPos: 50
 
-************************************************************************************************
-************************************************************************************************
 
-
-T(50.0)        : precision: 0.645161, recall: 0.050761, coverage: 1, TP: 20, FP: 11, nbPos: 394
+ 3 -  T(50.0)        : precision: 0.645161, recall: 0.050761, coverage: 1, TP: 20, FP: 11, nbPos: 394
       Hatespeech[0], def: 0.2152, prec: 0.6071, rec: 0.1393, TP: 17, FP: 11, nbPos: 122
       Ideology[1], def: 0.0176, prec: 1, rec: 0.1, TP: 1, FP: 0, nbPos: 10
       Feminists[2], def: 0.0123, prec: 1, rec: 0.1429, TP: 1, FP: 0, nbPos: 7
       Sexism[1], def: 0.0864, prec: 1, rec: 0.0204, TP: 1, FP: 0, nbPos: 49
 
 
-  T(50.0)        : precision: 0.814815, recall: 0.055556, coverage: 1, TP: 22, FP: 5, nbPos: 396
+ 4 -  T(50.0)        : precision: 0.814815, recall: 0.055556, coverage: 1, TP: 22, FP: 5, nbPos: 396
       Hatespeech[0], def: 0.2152, prec: 0.7647, rec: 0.1066, TP: 13, FP: 4, nbPos: 122
       Homophobia[1], def: 0.0582, prec: 0.8, rec: 0.1212, TP: 4, FP: 1, nbPos: 33
       Homossexuals[2], def: 0.0529, prec: 1, rec: 0.1, TP: 3, FP: 0, nbPos: 30
       Lesbians[3], def: 0.0423, prec: 1, rec: 0.0833, TP: 2, FP: 0, nbPos: 24
 
 
-  T(50.0)        : precision: 0.631579, recall: 0.090909, coverage: 1, TP: 36, FP: 21, nbPos: 396
+ 5 - T(50.0)        : precision: 0.631579, recall: 0.090909, coverage: 1, TP: 36, FP: 21, nbPos: 396
       Hatespeech[0], def: 0.2187, prec: 0.6512, rec: 0.2258, TP: 28, FP: 15, nbPos: 124
       Homophobia[1], def: 0.0564, prec: 0.75, rec: 0.0938, TP: 3, FP: 1, nbPos: 32
       Homossexuals[2], def: 0.0494, prec: 0.75, rec: 0.1071, TP: 3, FP: 1, nbPos: 28
       Lesbians[3], def: 0.0406, prec: 0.5, rec: 0.087, TP: 2, FP: 2, nbPos: 23
       Sexism[1], def: 0.0847, prec: 0, rec: 0, TP: 0, FP: 2, nbPos: 48
 
-  T(50.0)        : precision: 0.692308, recall: 0.04557, coverage: 1, TP: 18, FP: 8, nbPos: 395
+ 6 -  T(50.0)        : precision: 0.692308, recall: 0.04557, coverage: 1, TP: 18, FP: 8, nbPos: 395
       Hatespeech[0], def: 0.2152, prec: 0.6875, rec: 0.0902, TP: 11, FP: 5, nbPos: 122
       Homophobia[1], def: 0.0547, prec: 0.6667, rec: 0.0645, TP: 2, FP: 1, nbPos: 31
       Homossexuals[2], def: 0.0511, prec: 0.6667, rec: 0.069, TP: 2, FP: 1, nbPos: 29
       Lesbians[3], def: 0.0406, prec: 0.6667, rec: 0.087, TP: 2, FP: 1, nbPos: 23
       Sexism[1], def: 0.0882, prec: 1, rec: 0.02, TP: 1, FP: 0, nbPos: 50
 
- T(50.0)        : precision: 0.73913, recall: 0.04359, coverage: 1, TP: 17, FP: 6, nbPos: 390
+7 -  T(50.0)        : precision: 0.73913, recall: 0.04359, coverage: 1, TP: 17, FP: 6, nbPos: 390
       Hatespeech[0], def: 0.2169, prec: 0.75, rec: 0.0732, TP: 9, FP: 3, nbPos: 123
       Homophobia[1], def: 0.0564, prec: 0.6667, rec: 0.0625, TP: 2, FP: 1, nbPos: 32
       Homossexuals[2], def: 0.0511, prec: 0.6667, rec: 0.069, TP: 2, FP: 1, nbPos: 29
@@ -95,7 +98,7 @@ T(50.0)        : precision: 0.645161, recall: 0.050761, coverage: 1, TP: 20, FP:
       Women[2], def: 0.0582, prec: 1, rec: 0.0303, TP: 1, FP: 0, nbPos: 33
 
 
- T(50.0)        : precision: 0.77551, recall: 0.096447, coverage: 1, TP: 38, FP: 11, nbPos: 394
+8 -  T(50.0)        : precision: 0.77551, recall: 0.096447, coverage: 1, TP: 38, FP: 11, nbPos: 394
       Hatespeech[0], def: 0.2155, prec: 0.7241, rec: 0.1721, TP: 21, FP: 8, nbPos: 122
       Homophobia[1], def: 0.0565, prec: 0.8333, rec: 0.1562, TP: 5, FP: 1, nbPos: 32
       Homossexuals[2], def: 0.0495, prec: 1, rec: 0.1071, TP: 3, FP: 0, nbPos: 28
@@ -103,13 +106,13 @@ T(50.0)        : precision: 0.645161, recall: 0.050761, coverage: 1, TP: 20, FP:
       Sexism[1], def: 0.0866, prec: 0.75, rec: 0.0612, TP: 3, FP: 1, nbPos: 49
       Women[2], def: 0.0618, prec: 0.75, rec: 0.0857, TP: 3, FP: 1, nbPos: 35
 
-  T(50.0)        : precision: 0.72093, recall: 0.0775, coverage: 1, TP: 31, FP: 12, nbPos: 400
+9 -  T(50.0)        : precision: 0.72093, recall: 0.0775, coverage: 1, TP: 31, FP: 12, nbPos: 400
       Hatespeech[0], def: 0.2169, prec: 0.7097, rec: 0.1789, TP: 22, FP: 9, nbPos: 123
       Homophobia[1], def: 0.0547, prec: 0.75, rec: 0.0968, TP: 3, FP: 1, nbPos: 31
       Homossexuals[2], def: 0.0494, prec: 0.75, rec: 0.1071, TP: 3, FP: 1, nbPos: 28
       Lesbians[3], def: 0.0388, prec: 0.75, rec: 0.1364, TP: 3, FP: 1, nbPos: 22
 
-  T(50.0)        : precision: 0.609756, recall: 0.062657, coverage: 1, TP: 25, FP: 16, nbPos: 399
+ 10 - T(50.0)        : precision: 0.609756, recall: 0.062657, coverage: 1, TP: 25, FP: 16, nbPos: 399
       Hatespeech[0], def: 0.2173, prec: 0.6098, rec: 0.2033, TP: 25, FP: 16, nbPos: 123
 
 ```
